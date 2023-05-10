@@ -3,3 +3,4 @@
 * It's light and dark mode compatible application.
 * CRUD fanctionalities are implemented.
 * Attractive UI
+* Responsive UI
